@@ -1,2 +1,0 @@
-Dashboard - version 1
-Added dashboard settings
